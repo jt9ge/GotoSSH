@@ -6,6 +6,7 @@
 # @link     https://github.com/MFrank2016/GotoSSH
 #
 # Usage:
+# $ yum install -y expect
 # $ chmod a+x gotossh
 # $ sudo cp gotossh /usr/local/bin/
 # $ 'test_server||192.168.0.1||root||password||22||0||test-service'  > ~/.gotossh_config
