@@ -1,4 +1,4 @@
-# GotoSSH
+# GotoSSH by jt9ge
 
 - [English Version](#english)
 - [中文版](#chinese)
